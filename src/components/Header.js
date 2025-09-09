@@ -48,11 +48,6 @@ const useStyles = makeStyles()(() => ({
     size: "18px",
     marginLeft: "38px",
   },
-  toolbar: {
-    display: "flex",
-    justifyContent: "space-between",
-    backgroundColor: "#222c31",
-  },
   drawerContainer: {
     padding: "20px 30px",
   },
